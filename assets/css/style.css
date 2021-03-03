@@ -45,12 +45,11 @@
 }
 
 body {
-  margin: 3rem 0 0 0;
+    margin: 15px!important;
   font-family: var(--body-font);
-  background-color: var(--first-color);
+  background-color: var(--first-color)!important;
   color: var(--text-color);
   font-weight: 700;
-  overflow: hidden;
 }
 
 h1, h2 {
